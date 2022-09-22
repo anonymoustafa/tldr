@@ -22,3 +22,7 @@
 - Play video from a URL:
 
 `vlc {{https://www.youtube.com/watch?v=oHg5SJYRHA0}}`
+
+- Play live viedo from your web-cam
+
+`vlc v4l2:///dev/video0`
